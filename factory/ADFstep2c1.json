@@ -1,0 +1,9 @@
+{
+	"name": "ADFstep2c1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ae36b7b-2f3c-4d7a-9e50-731bd1c4678b",
+		"tenantId": "97c38074-044d-4636-b6c7-259d85c513d3"
+	}
+}
